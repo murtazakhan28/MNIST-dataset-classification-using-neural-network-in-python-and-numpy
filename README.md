@@ -58,6 +58,7 @@ This function takes the initialized model, training data, number of epochs and l
 #### weights update
 
 ## Results
+![mnist results](https://user-images.githubusercontent.com/40146537/41437747-c3156ce0-703e-11e8-998d-0f3319aafd09.png)
 
 
 ## Acknowledgement
